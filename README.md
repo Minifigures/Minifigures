@@ -1,16 +1,13 @@
-## Hi there 👋
+# About Me
 
-<!--
-**Minifigures/Minifigures** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there! I'm Marco Anthony Ayuste — a fourth-year undergraduate student at the University of Toronto Mississauga majoring in Communication, Culture & Information Technology (CCIT) and Sociology.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on coding projects and polishing my portfolio.
+- 🌱 I’m learning more about software and database integration.
+- 👯 I’m open to collaborating on anything involving front-end development, UI/UX design, or sociotechnical research.
+- 💬 Ask me about coding, communications, resume building, or anything tech-related.
+- 📫 How to reach me: [minifigures.github.io](https://minifigures.github.io) or shoot me a message here on GitHub!
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I benchpress and deadlift more than I weigh and have a soft spot for anime, gym sessions, and skiing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for stopping by! 🚀
