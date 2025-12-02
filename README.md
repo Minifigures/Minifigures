@@ -1,6 +1,6 @@
 # About Me
 
-Hey there! I'm Marco Anthony Ayuste — a fourth-year undergraduate student at the University of Toronto Mississauga majoring in Communication, Culture & Information Technology (CCIT) and Sociology.
+Hey there! I'm Marco Anthony Ayuste, a fourth-year undergraduate student at the University of Toronto Mississauga majoring in Communication, Culture & Information Technology (CCIT) and Sociology.
 
 - 🔭 I’m currently working on coding projects and polishing my portfolio.
 - 🌱 I’m learning more about software and database integration.
