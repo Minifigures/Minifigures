@@ -9,7 +9,6 @@
 📈 I’m comfortable with data tracking and analysis (Sheets/Excel workflows, KPIs, structured documentation)
 🤝 I’m open to collaborating on projects involving front-end, back-end, UI/UX, automation, or sociotechnical work
 📫 How to reach me: https://minifigures.github.io
- (or message me here on GitHub)
 😄 Pronouns: He/Him
 🏋️ Fun fact: I bench press and deadlift more than I weigh, and I’m into anime, gym sessions, billiards, concerts, sunsets, and trying new food spots
 
