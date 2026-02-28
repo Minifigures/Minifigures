@@ -4,7 +4,7 @@
 <br>
 💻 I build and ship web projects, I care a lot about clean UI/UX, performance, and maintainable code <br>
 🧪 I’m interested in Software Engineering, QA automation, and product engineering, especially where reliability and great UX overlap <br>
-🤖 I’m also exploring AI tooling (chatbots, prompt engineering, and Google Cloud learning like Vertex AI Studio) <br>
+🤖 I also use AI tooling (chatbots, prompt engineering, and Google Cloud learning like Vertex AI Studio) <br>
 🛠️ Tech I use: JavaScript, Python, HTML/CSS, Git/GitHub, Netlify/Vercel, Google Workspace, Microsoft Office (Excel, Word, PowerPoint) <br>
 📈 I’m comfortable with data tracking and analysis (Sheets/Excel workflows, KPIs, structured documentation) <br>
 🤝 I’m open to collaborating on projects involving front-end, back-end, UI/UX, automation, or sociotechnical work <br>
