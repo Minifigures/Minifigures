@@ -1,6 +1,6 @@
 # About Me
 
-👋 Hey there! I’m Marco Anthony Ayuste, a fourth-year undergraduate student at the University of Toronto Mississauga, double majoring in Communication, Culture & Information Technology (CCIT) and Sociology. <br>
+👋 Hey there! I’m Marco Anthony Ayuste, an undergraduate student at the University of Toronto Mississauga, double majoring in Communication, Culture & Information Technology (CCIT) + Sociology. <br>
 <br>
 💻 I build and ship web projects, I care a lot about clean UI/UX, performance, and maintainable code <br>
 🧪 I’m interested in Software Engineering, QA automation, and product engineering, especially where reliability and great UX overlap <br>
