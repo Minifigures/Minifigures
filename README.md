@@ -21,7 +21,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Software Engineer** and student at the **University of Toronto Mississauga**, pursuing a double major in **Communication, Culture & Information Technology (CCIT)** and **Sociology** (Honours B.A., graduating June 2027).
+I'm a **Full-Stack Developer** and student at the **University of Toronto Mississauga**, pursuing a double major in **Communication, Culture & Information Technology (CCIT)** and **Sociology**.
 
 I build full-stack applications and AI-powered systems, and I care deeply about clean architecture, great UX, and shipping things that actually work. Currently seeking **Summer 2026 internships** in software engineering, AI/ML, and product.
 
