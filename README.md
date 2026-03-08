@@ -73,7 +73,7 @@ I build full-stack applications and AI-powered systems, and I care deeply about 
 <tr>
 <td width="50%" valign="top">
 
-### 🏆 [LOCATR](https://github.com/Minifigures/deerhacks)
+### 🏆 [LOCATR](https://github.com/deerhacks/LOCATR)
 **Multi-Agent Location Intelligence System**
 
 *DeerHacks V Track Winner* | Team of 4
