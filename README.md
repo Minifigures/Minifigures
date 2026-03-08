@@ -149,7 +149,6 @@ OSSD — Specialist High Skills Major: Computer Science | Extended French (Gr. 4
 
 I'm always open to interesting conversations, collaborations, and opportunities.
 
-[![LinkedIn](https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marco-anthony-ayuste)
 [![Email](https://img.shields.io/badge/Send_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marco.ayuste@mail.utoronto.ca)
 [![Portfolio](https://img.shields.io/badge/Check_my_portfolio-000?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://marcoanthony.netlify.app)
 
