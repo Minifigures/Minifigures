@@ -133,18 +133,6 @@ Proof-of-concept leveraging Google Vertex AI to automate insurance underwriting 
 
 ---
 
-## 💼 Experience
-
-| Role | Organization | Period |
-|------|-------------|--------|
-| 🧑‍💻 **Software Engineering Intern** | Riipen Level UP | Mar 2026 - Present |
-| 🌐 **Webmaster Intern** | MINOA | Dec 2025 - Present |
-| 🪶 **Indigenous Programming Assistant** | UTM Centre for Student Engagement | Aug 2025 - Present |
-| 🎱 **Website Manager** | UTM Billiards Club | May 2025 - Present |
-| 📦 **Inventory Clerk** | Hallite Seals International | Nov 2023 - Dec 2025 |
-
----
-
 ## 🎓 Education
 
 **University of Toronto Mississauga**
