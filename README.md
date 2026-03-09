@@ -63,7 +63,7 @@ I build full-stack applications and AI-powered systems, and I care deeply about 
 **Databases, Cloud & DevOps**
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,githubactions,postgres,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,githubactions,postgres,mysql,vercel,netlify&theme=dark" />
 </a>
 
 <br/>
@@ -73,7 +73,7 @@ I build full-stack applications and AI-powered systems, and I care deeply about 
 ![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-**Tools & Design**
+**Tools, Automation & Design**
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
@@ -81,7 +81,11 @@ I build full-stack applications and AI-powered systems, and I care deeply about 
 
 <br/>
 
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![v0](https://img.shields.io/badge/v0-000000?style=for-the-badge&logo=v0&logoColor=white)
 ![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
 
 </div>
 
@@ -155,10 +159,10 @@ Proof-of-concept leveraging Google Vertex AI to automate insurance underwriting 
 
 ## 🎓 Education
 
-**University of Toronto Mississauga**
+**University of Toronto Mississauga**  
 Honours B.A. — Double Major in CCIT & Sociology | Expected June 2027
 
-**Philip Pocock Catholic Secondary School**
+**Philip Pocock Catholic Secondary School**  
 OSSD — Specialist High Skills Major: Computer Science | Extended French (Gr. 4-12) | 2017 - 2021
 
 ---
