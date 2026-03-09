@@ -38,28 +38,50 @@ I build full-stack applications and AI-powered systems, and I care deeply about 
 **Languages**
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,ruby,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,ruby,html,css&theme=dark" />
 </a>
+
+<br/>
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Frameworks & Libraries**
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,tailwind&theme=dark" />
 </a>
 
+<br/>
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 
-**Cloud, Data & DevOps**
+**Databases, Cloud & DevOps**
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,githubactions,postgres,mysql&theme=dark" />
 </a>
+
+<br/>
 
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
 ![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**Tools & Design**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
+</a>
+
+<br/>
+
+![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white)
 
 </div>
 
