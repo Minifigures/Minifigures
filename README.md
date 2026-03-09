@@ -101,7 +101,7 @@ I build full-stack applications and AI-powered systems, and I care deeply about 
 **Tools, IDEs & Design**
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vscode,figma,discord,slack,bash,powershell,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,figma,discord,bash,powershell,linux&theme=dark" />
 </a>
 
 <br/>
