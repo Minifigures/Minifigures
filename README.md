@@ -26,7 +26,7 @@ I build full-stack applications and AI-powered systems, and I care deeply about 
 
 - 🏆 **DeerHacks V Track Winner** with [LOCATR](https://github.com/Minifigures/deerhacks), a multi-agent location intelligence system
 - 🌐 Built the [UTM Billiards Club website](https://utm-billiards.netlify.app) with an Elo ranking system, physics-based HTML5 Canvas game, and AI chatbot
-- 🧠 Exploring multi-agent AI orchestration, cloud ML pipelines, and developer tooling
+- 🧠 Exploring multi-agent AI orchestration, cloud ML pipelines, developer tooling, agentic workflows, and LLM-powered systems
 - 🏋️ Fun fact: I bench press and deadlift more than I weigh
 
 ---
@@ -38,17 +38,17 @@ I build full-stack applications and AI-powered systems, and I care deeply about 
 **Languages**
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,ruby,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,r,ruby,html,css&theme=dark" />
 </a>
 
 <br/>
 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Frameworks & Libraries**
+**Frameworks, Libraries & Backend**
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,nodejs,fastapi,tailwind&theme=dark" />
 </a>
 
 <br/>
@@ -56,36 +56,69 @@ I build full-stack applications and AI-powered systems, and I care deeply about 
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+
+**AI, Agents & LLM Tooling**
+
+![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+![LLM APIs](https://img.shields.io/badge/LLM_APIs-412991?style=for-the-badge&logo=fastapi&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-0A66C2?style=for-the-badge&logo=openai&logoColor=white)
+![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-111827?style=for-the-badge&logo=n8n&logoColor=white)
+![MCPs](https://img.shields.io/badge/MCPs-7C3AED?style=for-the-badge&logo=protocolsdotio&logoColor=white)
+![CLIs](https://img.shields.io/badge/CLIs-24292F?style=for-the-badge&logo=gnubash&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=google&logoColor=white)
 
 **Databases, Cloud & DevOps**
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,githubactions,postgres,mysql,vercel,netlify&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,githubactions,postgres,mysql,mongodb,vercel,netlify&theme=dark" />
 </a>
 
 <br/>
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
 ![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![CI%2FCD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
 
-**Tools, Automation & Design**
+**Tools, IDEs & Design**
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,figma,discord,slack&theme=dark" />
 </a>
 
 <br/>
 
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IDEs](https://img.shields.io/badge/IDEs-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![v0](https://img.shields.io/badge/v0-000000?style=for-the-badge&logo=v0&logoColor=white)
+![v0](https://img.shields.io/badge/v0-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+
+**Collaboration & Productivity**
+
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Microsoft_Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)
+![Zoom](https://img.shields.io/badge/Zoom-0B5CFF?style=for-the-badge&logo=zoom&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Google_Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white)
+![Microsoft_Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power_BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000)
+![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
 
 </div>
 
@@ -160,10 +193,10 @@ Proof-of-concept leveraging Google Vertex AI to automate insurance underwriting 
 ## 🎓 Education
 
 **University of Toronto Mississauga**  
-Honours B.A. — Double Major in CCIT & Sociology | Expected June 2027
+Honours B.A. - Double Major in CCIT & Sociology | Expected June 2027
 
 **Philip Pocock Catholic Secondary School**  
-OSSD — Specialist High Skills Major: Computer Science | Extended French (Gr. 4-12) | 2017 - 2021
+OSSD - Specialist High Skills Major: Computer Science | Extended French (Gr. 4-12) | 2017 - 2021
 
 ---
 
