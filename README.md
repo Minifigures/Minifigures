@@ -59,21 +59,24 @@ I build full-stack applications and AI-powered systems, and I care deeply about 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![REST_APIs](https://img.shields.io/badge/REST_APIs-0EA5E9?style=for-the-badge&logo=swagger&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![HTML5_Canvas](https://img.shields.io/badge/HTML5_Canvas-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 **AI, Agents & LLM Tooling**
 
 ![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
-![LLM APIs](https://img.shields.io/badge/LLM_APIs-412991?style=for-the-badge&logo=fastapi&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agents-0A66C2?style=for-the-badge&logo=openai&logoColor=white)
-![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-111827?style=for-the-badge&logo=n8n&logoColor=white)
+![LLM_APIs](https://img.shields.io/badge/LLM_APIs-412991?style=for-the-badge&logo=fastapi&logoColor=white)
+![AI_Agents](https://img.shields.io/badge/AI_Agents-0A66C2?style=for-the-badge&logo=openai&logoColor=white)
+![Agentic_Workflows](https://img.shields.io/badge/Agentic_Workflows-111827?style=for-the-badge&logo=n8n&logoColor=white)
 ![MCPs](https://img.shields.io/badge/MCPs-7C3AED?style=for-the-badge&logo=protocolsdotio&logoColor=white)
 ![CLIs](https://img.shields.io/badge/CLIs-24292F?style=for-the-badge&logo=gnubash&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=google&logoColor=white)
+![Claude_Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 **Databases, Cloud & DevOps**
 
@@ -87,15 +90,18 @@ I build full-stack applications and AI-powered systems, and I care deeply about 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![BigQuery_ML](https://img.shields.io/badge/BigQuery_ML-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Vertex_AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
 ![CI%2FCD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 
 **Tools, IDEs & Design**
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vscode,figma,discord,slack&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,figma,discord,slack,bash,powershell,linux&theme=dark" />
 </a>
 
 <br/>
@@ -103,9 +109,14 @@ I build full-stack applications and AI-powered systems, and I care deeply about 
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![IDEs](https://img.shields.io/badge/IDEs-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Google_Antigravity](https://img.shields.io/badge/Google_Antigravity-000000?style=for-the-badge&logo=google&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![v0](https://img.shields.io/badge/v0-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white)
+![Terminal](https://img.shields.io/badge/Terminal-241F31?style=for-the-badge&logo=windowsterminal&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000)
 
 **Collaboration & Productivity**
 
@@ -119,6 +130,10 @@ I build full-stack applications and AI-powered systems, and I care deeply about 
 ![Power_BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000)
 ![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
+![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)
+![OneDrive](https://img.shields.io/badge/OneDrive-0078D4?style=for-the-badge&logo=microsoftonedrive&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-03787C?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
+![OneNote](https://img.shields.io/badge/OneNote-7719AA?style=for-the-badge&logo=microsoftonenote&logoColor=white)
 
 </div>
 
