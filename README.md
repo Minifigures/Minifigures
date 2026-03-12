@@ -27,7 +27,7 @@ I build full-stack applications and AI-powered systems, and I care deeply about 
 - 🏆 **DeerHacks V Track Winner** with [LOCATR](https://github.com/Minifigures/deerhacks), a multi-agent location intelligence system
 - 🌐 Built the [UTM Billiards Club website](https://utm-billiards.netlify.app) with an Elo ranking system, physics-based HTML5 Canvas game, and AI chatbot
 - 🧠 Exploring multi-agent AI orchestration, cloud ML pipelines, developer tooling, agentic workflows, and LLM-powered systems
-- 🏋️ Fun fact: I bench press and deadlift more than I weigh
+- 🏋️ Fun fact: I bench press and deadlift more than I weigh!
 
 ---
 
