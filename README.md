@@ -196,7 +196,6 @@ Proof-of-concept leveraging Google Vertex AI to automate insurance underwriting 
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Minifigures&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
 <img width="49%" src="https://streak-stats.demolab.com/?user=Minifigures&theme=github-dark-blue&hide_border=true" />
 
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minifigures&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
