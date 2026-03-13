@@ -148,7 +148,7 @@ I build full-stack applications and AI-powered systems, and I care deeply about 
 ### 🏆 [LOCATR](https://github.com/deerhacks/LOCATR)
 **Multi-Agent Location Intelligence System**
 
-*DeerHacks V Track Winner* | Team of 4
+*DeerHacks V Winner* | Team of 4
 
 A multi-agent AI system that provides intelligent, context-aware location recommendations by orchestrating specialized agents through LangGraph.
 
