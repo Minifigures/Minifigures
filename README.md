@@ -22,7 +22,7 @@
 
 I'm a **Full-Stack Developer** and student at the **University of Toronto Mississauga**, pursuing a double major in **Communication, Culture & Information Technology (CCIT)** and **Sociology**.
 
-• **CCIT Major** with a focus in Human Computer Interaction, User Experience (UX), and Design (UI)<br/>
+• **CCIT Major** with a focus in Human Computer Interaction, User Experience (UX), Design (UI), and Product Management<br/>
 • **Sociology Major** with a focus in Research, Methodologies, and Statistics
 
 I build full-stack applications and AI-powered systems, and I care deeply about clean architecture, great UX, and shipping things that actually work. Currently seeking **Summer 2026 internships** in software engineering, AI/ML, and product.
