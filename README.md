@@ -22,6 +22,9 @@
 
 I'm a **Full-Stack Developer** and student at the **University of Toronto Mississauga**, pursuing a double major in **Communication, Culture & Information Technology (CCIT)** and **Sociology**.
 
+• **CCIT Major** with a focus in Human Computer Interaction, User Experience (UX), and Design (UI)
+• **Sociology Major** with a focus in Research, Methodologies, and Statistics
+
 I build full-stack applications and AI-powered systems, and I care deeply about clean architecture, great UX, and shipping things that actually work. Currently seeking **Summer 2026 internships** in software engineering, AI/ML, and product.
 
 - 🏆 **DeerHacks V Track Winner** with [LOCATR](https://github.com/Minifigures/deerhacks), a multi-agent location intelligence system
