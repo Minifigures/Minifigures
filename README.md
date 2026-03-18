@@ -27,7 +27,7 @@ I'm a **Full-Stack Developer** and student at the **University of Toronto Missis
 
 I build full-stack applications and AI-powered systems, and I care deeply about clean architecture, great UX, and shipping things that actually work. Seeking **internships** in research, software engineering, AI/ML, UI/UX and product.
 
-- 🏆 **DeerHacks V Track Winner** with [LOCATR](https://github.com/Minifigures/deerhacks), a multi-agent location intelligence system
+- 🏆 **DeerHacks V Winner** with [LOCATR](https://github.com/Minifigures/deerhacks), a multi-agent location intelligence system
 - 🌐 Built the [UTM Billiards Club website](https://utm-billiards.netlify.app) with an Elo ranking system, physics-based HTML5 Canvas game, and AI chatbot
 - 🧠 Exploring multi-agent AI orchestration, cloud ML pipelines, developer tooling, agentic workflows, and LLM-powered systems
 - 🏋️ Fun fact: I bench press and deadlift more than I weigh!
