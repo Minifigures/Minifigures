@@ -18,23 +18,23 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 I'm a **Full-Stack Developer** and student at the **University of Toronto Mississauga**, pursuing a double major in **Communication, Culture & Information Technology (CCIT)** and **Sociology**.
 
-• **CCIT Major** with a focus in Human Computer Interaction, User Experience (UX), Design (UI), and Product Management<br/>
-• **Sociology Major** with a focus in Research, Methodologies, and Statistics
+- **CCIT Major** with a focus in Human Computer Interaction, User Experience (UX), Design (UI), and Product Management
+- **Sociology Major** with a focus in Research, Methodologies, and Statistics
 
 I build full-stack software applications and AI-powered systems, and I care deeply about clean architecture, great UX, and shipping things that actually work. Interested in AI, ML, software engineering, research, UI/UX or product.
 
-- 🏆 **DeerHacks V Winner** with [LOCATR](https://github.com/Minifigures/deerhacks), a multi-agent location intelligence system
-- 🌐 Built the [UTM Billiards Club website](https://utm-billiards.netlify.app) with an Elo ranking system, physics-based HTML5 Canvas game, and AI chatbot
-- 🧠 Exploring multi-agent AI orchestration, cloud ML pipelines, developer tooling, agentic workflows, and LLM-powered systems
-- 🏋️ Fun fact: I bench press and deadlift more than I weigh
+- **DeerHacks V Winner** with [LOCATR](https://github.com/Minifigures/LOCATR), a multi-agent location intelligence system
+- **Hack the Globe 2026 Finalist** with [Canopy](https://hacktheglobe.vercel.app), a continuous remote care platform
+- Built the [UTM Billiards Club website](https://utmbc.vercel.app) with Next.js, Elo rankings, AI chatbot, and a browser-based pool game
+- Exploring multi-agent AI orchestration, cloud ML pipelines, developer tooling, agentic workflows, and LLM-powered systems
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -65,7 +65,7 @@ I build full-stack software applications and AI-powered systems, and I care deep
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![REST_APIs](https://img.shields.io/badge/REST_APIs-0EA5E9?style=for-the-badge&logo=swagger&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![HTML5_Canvas](https://img.shields.io/badge/HTML5_Canvas-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 
 **AI, Agents & LLM Tooling**
 
@@ -92,14 +92,11 @@ I build full-stack software applications and AI-powered systems, and I care deep
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![BigQuery_ML](https://img.shields.io/badge/BigQuery_ML-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
 ![Vertex_AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
 ![CI%2FCD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 
 **Tools, IDEs & Design**
 
@@ -110,45 +107,21 @@ I build full-stack software applications and AI-powered systems, and I care deep
 <br/>
 
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IDEs](https://img.shields.io/badge/IDEs-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Google_Antigravity](https://img.shields.io/badge/Google_Antigravity-000000?style=for-the-badge&logo=google&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![v0](https://img.shields.io/badge/v0-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white)
-![Terminal](https://img.shields.io/badge/Terminal-241F31?style=for-the-badge&logo=windowsterminal&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000)
-
-**Collaboration & Productivity**
-
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Microsoft_Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)
-![Zoom](https://img.shields.io/badge/Zoom-0B5CFF?style=for-the-badge&logo=zoom&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Google_Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white)
-![Microsoft_Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Power_BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000)
-![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
-![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)
-![OneDrive](https://img.shields.io/badge/OneDrive-0078D4?style=for-the-badge&logo=microsoftonedrive&logoColor=white)
-![SharePoint](https://img.shields.io/badge/SharePoint-03787C?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
-![OneNote](https://img.shields.io/badge/OneNote-7719AA?style=for-the-badge&logo=microsoftonenote&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏆 [LOCATR](https://github.com/deerhacks/LOCATR)
+### [LOCATR](https://github.com/Minifigures/LOCATR)
 **Multi-Agent Location Intelligence System**
 
 *DeerHacks V Winner* | Team of 4
@@ -160,19 +133,43 @@ A multi-agent AI system that provides intelligent, context-aware location recomm
 </td>
 <td width="50%" valign="top">
 
-### 🎱 [UTM Billiards Club](https://utm-billiards.netlify.app)
-**Full-Stack Club Platform**
+### [Canopy](https://hacktheglobe.vercel.app)
+**Continuous Remote Care Platform**
 
-Interactive club website featuring a physics-based HTML5 Canvas billiards game, an Elo ranking system for competitive tracking, AI chatbot integration, and dynamic member ranking pages.
+*Hack the Globe 2026 Finalist* | Team of 4
 
-`JavaScript` `HTML5 Canvas` `CSS` `Netlify`
+Three-layered remote care platform with immersive 3D island experiences for patients, families, and clinicians. AI-driven health monitoring with zero digital literacy required.
+
+`TypeScript` `Next.js` `Three.js` `Supabase` `Gemini` `Vercel`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📊 BigQuery ML Purchase Prediction
+### [UTM Billiards Club](https://utmbc.vercel.app)
+**Full-Stack Club Platform**
+
+Interactive club website with a 3D Three.js hero, live Elo ranking system pulling from Google Sheets, AI FAQ chatbot, generative brand lookbook, physics-based browser pool game, and team management.
+
+`TypeScript` `Next.js` `Tailwind CSS` `Three.js` `p5.js` `Vercel`
+
+</td>
+<td width="50%" valign="top">
+
+### [Portfolio](https://github.com/Minifigures/personal-site)
+**Immersive Three.js Portfolio**
+
+Beach/sunset themed personal portfolio with interactive 3D scenes built using React Three Fiber, custom shaders, and scroll-driven animations.
+
+`TypeScript` `Next.js` `React Three Fiber` `Tailwind CSS` `Vercel`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### BigQuery ML Purchase Prediction
 **Machine Learning Pipeline**
 
 Built a predictive ML model using Google BigQuery ML to forecast visitor purchasing behaviour on e-commerce datasets, leveraging cloud-native data warehousing for scalable analysis.
@@ -182,7 +179,7 @@ Built a predictive ML model using Google BigQuery ML to forecast visitor purchas
 </td>
 <td width="50%" valign="top">
 
-### 🤖 Vertex AI Insurance Underwriting
+### Vertex AI Insurance Underwriting
 **AI Proof-of-Concept**
 
 Proof-of-concept leveraging Google Vertex AI to automate insurance underwriting decisions, exploring how generative AI can streamline risk assessment workflows.
@@ -195,7 +192,7 @@ Proof-of-concept leveraging Google Vertex AI to automate insurance underwriting 
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -207,24 +204,24 @@ Proof-of-concept leveraging Google Vertex AI to automate insurance underwriting 
 
 ---
 
-## 🎓 Education
+## Education
 
-**University of Toronto Mississauga**  
+**University of Toronto Mississauga**
 Honours B.A. - Double Major in CCIT & Sociology | Expected June 2027
 
-**Philip Pocock Catholic Secondary School**  
+**Philip Pocock Catholic Secondary School**
 OSSD - Specialist High Skills Major: Computer Science | Extended French (Gr. 4-12) | 2017 - 2021
 
 ---
 
 <div align="center">
 
-### 🤝 Let's Connect
+### Let's Connect
 
 I'm always open to interesting conversations, collaborations, and opportunities.
 
 [![Email](https://img.shields.io/badge/Send_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marco.ayuste@mail.utoronto.ca)
-[![Portfolio](https://img.shields.io/badge/Check_my_portfolio-000?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://marcoanthony.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Check_my_portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://marcoayuste.com)
 
 <br/>
 
