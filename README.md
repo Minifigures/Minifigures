@@ -20,7 +20,7 @@
 
 ## About Me
 
-I'm a **Full-Stack Developer** and student at the **University of Toronto Mississauga**, pursuing a double major in **Communication, Culture & Information Technology (CCIT)** and **Sociology**.
+I'm a student at the **University of Toronto**, pursuing a double major in **Communication, Culture, Information Technology (CCIT)** and **Sociology**.
 
 - **CCIT Major** with a focus in Human Computer Interaction, User Experience (UX), Design (UI), and Product Management
 - **Sociology Major** with a focus in Research, Methodologies, and Statistics
