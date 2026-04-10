@@ -27,7 +27,7 @@ I build full-stack software applications and AI-powered systems, and I care deep
 - **DeerHacks V Winner** with [LOCATR](https://github.com/Minifigures/LOCATR), a multi-agent location intelligence system
 - **Hack the Globe 2026 Finalist** with [Canopy](https://hacktheglobe.vercel.app), a continuous remote care platform
 - Built the [UTM Billiards Club website](https://utmbc.vercel.app) with Next.js, Elo rankings, AI chatbot, and a browser-based pool game
-- Exploring multi-agent AI orchestration, cloud ML pipelines, developer tooling, agentic workflows, and LLM-powered systems
+- Exploring automation (efficiency), multi-agent AI orchestration, cloud ML pipelines, developer tooling, agentic workflows, and LLM-powered systems
 
 ---
 
