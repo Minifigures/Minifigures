@@ -22,7 +22,7 @@
 
 I'm a student at the **University of Toronto**, pursuing a double major in **Communication, Culture, Information Technology (CCIT)** and **Sociology**.
 
-I build full-stack software applications and AI-powered systems, and I care deeply about clean architecture, great UX, and shipping things that actually work. Interested in AI, ML, software engineering, research, UI/UX or product.
+I build full-stack software applications and AI-powered systems, and I care deeply about clean architecture, great UX, and shipping things that actually work. Interested in AI, ML, software engineer/devlopment (swe), research, UI/UX or product.
 
 - **DeerHacks V Winner** with [LOCATR](https://github.com/Minifigures/LOCATR), a multi-agent location intelligence system
 - **Hack the Globe 2026 Finalist** with [Canopy](https://hacktheglobe.vercel.app), a continuous remote care platform
