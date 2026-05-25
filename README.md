@@ -20,7 +20,7 @@
 
 ## About Me
 
-I'm a honours student at the **University of Toronto**, pursuing a double major in **Communication, Culture, Information Technology (CCIT)** and **Sociology**. 3x 2026 hackathon winner out of 5.
+I'm a honours student at the **University of Toronto**, pursuing a double major in **Communication, Culture, Information Technology (CCIT)** and **Sociology**. 5x 2026 hackathon winner.
 
 I build full-stack software applications and AI-powered systems, and I care deeply about clean architecture, great UX, and shipping things that actually work. Interested in AI/ML, research, software engineer/devlopment (swe), AI Software Developer, UI/UX or product. I code everyday.
 
