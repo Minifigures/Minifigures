@@ -204,10 +204,10 @@ Proof-of-concept leveraging Google Vertex AI to automate insurance underwriting 
 ## Education
 
 **University of Toronto Mississauga**
-Honours B.A. - Double Major in CCIT & Sociology | Expected June 2027
+Honours Bachelors - Double Major in CCIT & Sociology | Expected June 2027 / December 2027
 
 **Philip Pocock Catholic Secondary School**
-OSSD - Specialist High Skills Major: Computer Science | Extended French (Gr. 4-12) | 2017 - 2021
+OSSD - (SHSM) Specialist High Skills Major: Computer Science | Extended French (Gr. 4-12) | 2017 - 2021
 
 ---
 
