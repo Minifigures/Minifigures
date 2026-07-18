@@ -20,8 +20,6 @@
 
 ## About Me
 
-I'm a honours student at the **University of Toronto**
-
 I build full-stack software applications and AI-powered systems, and I care deeply about clean architecture, great UX, and shipping things that actually work. Interested in AI/ML, research, software engineer/devlopment (swe), AI Software Developer, UI/UX or product. I code everyday.
 
 - **DeerHacks V Winner** with [LOCATR](https://github.com/Minifigures/LOCATR), a multi-agent location intelligence system
