@@ -202,10 +202,10 @@ Proof-of-concept leveraging Google Vertex AI to automate insurance underwriting 
 ## Education
 
 **University of Toronto Mississauga**
-Honours Bachelors
+Honours Bachelors Degree
 
 **Philip Pocock Catholic Secondary School**
-OSSD - Specialist High Skills Major: Computer Science | Extended French (Gr. 4-12) | 2017 - 2021
+OSSD - Specialist High Skills Major: Computer Science | Extended French (Gr. 4-12)
 
 ---
 
