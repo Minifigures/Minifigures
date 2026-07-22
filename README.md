@@ -20,7 +20,7 @@
 
 ## About Me
 
-I build full-stack software applications and AI-powered systems, and I care deeply about clean architecture, great UX, and shipping things that actually work. Interested in AI/ML, research, software engineer/development (swe), AI Software Developer, UI/UX or product. I code everyday. 6x 2026 Hackathon Winner.
+I build full-stack software applications and AI-powered systems, and I care deeply about clean architecture, great UX, and shipping things that actually work. Interested in AI/ML, research, software engineer/development (swe), AI Forward Deployed Engineer, AI Software Developer, UI/UX or product. I code everyday. 6x 2026 Hackathon Winner.
 
 - **DeerHacks V Winner** with [LOCATR](https://github.com/Minifigures/LOCATR), a multi-agent location intelligence system
 - **Hack the Globe 2026 Finalist** with [Canopy](https://hacktheglobe.vercel.app), a continuous remote care platform
