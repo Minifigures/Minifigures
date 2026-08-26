@@ -201,7 +201,7 @@ Proof-of-concept leveraging Google Vertex AI to automate insurance underwriting 
 
 ## Education
 
-**University of Toronto Mississauga**
+**University of Toronto**
 Honours Bachelors Degree
 
 **Philip Pocock Catholic Secondary School**
