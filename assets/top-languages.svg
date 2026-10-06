@@ -3,15 +3,15 @@
   <clipPath id="bar"><rect x="25" y="52" width="445" height="10" rx="5"/></clipPath>
   <g font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">
     <text x="25" y="34" fill="#58A6FF" font-size="18" font-weight="700">Most Used Languages</text>
-    <g clip-path="url(#bar)"><rect x="25.00" y="52" width="270.51" height="10" fill="#f1e05a"/><rect x="295.51" y="52" width="65.82" height="10" fill="#3572A5"/><rect x="361.34" y="52" width="60.74" height="10" fill="#3178c6"/><rect x="422.07" y="52" width="26.90" height="10" fill="#e34c26"/><rect x="448.97" y="52" width="9.76" height="10" fill="#f34b7d"/><rect x="458.73" y="52" width="9.25" height="10" fill="#663399"/><rect x="467.97" y="52" width="1.23" height="10" fill="#89e051"/><rect x="469.21" y="52" width="0.79" height="10" fill="#c22d40"/></g>
+    <g clip-path="url(#bar)"><rect x="25.00" y="52" width="274.96" height="10" fill="#f1e05a"/><rect x="299.96" y="52" width="66.91" height="10" fill="#3572A5"/><rect x="366.87" y="52" width="54.61" height="10" fill="#3178c6"/><rect x="421.48" y="52" width="27.34" height="10" fill="#e34c26"/><rect x="448.82" y="52" width="9.92" height="10" fill="#f34b7d"/><rect x="458.74" y="52" width="9.20" height="10" fill="#663399"/><rect x="467.94" y="52" width="1.25" height="10" fill="#89e051"/><rect x="469.19" y="52" width="0.81" height="10" fill="#c22d40"/></g>
     <circle cx="30" cy="88" r="5" fill="#f1e05a"/>
-    <text x="41" y="92" fill="#FEFEFE" font-size="12">JavaScript <tspan fill="#9E9E9E">60.7%</tspan></text>
+    <text x="41" y="92" fill="#FEFEFE" font-size="12">JavaScript <tspan fill="#9E9E9E">61.7%</tspan></text>
     <circle cx="255" cy="88" r="5" fill="#3572A5"/>
-    <text x="266" y="92" fill="#FEFEFE" font-size="12">Python <tspan fill="#9E9E9E">14.8%</tspan></text>
+    <text x="266" y="92" fill="#FEFEFE" font-size="12">Python <tspan fill="#9E9E9E">15.0%</tspan></text>
     <circle cx="30" cy="112" r="5" fill="#3178c6"/>
-    <text x="41" y="116" fill="#FEFEFE" font-size="12">TypeScript <tspan fill="#9E9E9E">13.6%</tspan></text>
+    <text x="41" y="116" fill="#FEFEFE" font-size="12">TypeScript <tspan fill="#9E9E9E">12.2%</tspan></text>
     <circle cx="255" cy="112" r="5" fill="#e34c26"/>
-    <text x="266" y="116" fill="#FEFEFE" font-size="12">HTML <tspan fill="#9E9E9E">6.0%</tspan></text>
+    <text x="266" y="116" fill="#FEFEFE" font-size="12">HTML <tspan fill="#9E9E9E">6.1%</tspan></text>
     <circle cx="30" cy="136" r="5" fill="#f34b7d"/>
     <text x="41" y="140" fill="#FEFEFE" font-size="12">C++ <tspan fill="#9E9E9E">2.2%</tspan></text>
     <circle cx="255" cy="136" r="5" fill="#663399"/>
