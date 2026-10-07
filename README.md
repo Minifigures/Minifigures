@@ -190,7 +190,7 @@ Six LangGraph agents turn natural-language requests into a live Mapbox shortlist
 ### [Canopy](https://github.com/Minifigures/hacktheglobe)
 **Continuous Remote-Care Platform**
 
-*Hack the Globe 2026 - Health & Humanity Winner* | Team of 4
+*Hack the Globe 2026 - Health & Humanity Finalist* | Team of 4
 
 Remote care for elderly patients across three linked surfaces: a voice-AI "garden" check-in, a family dashboard, and a clinical dashboard with 0-100 risk stratification. A LangGraph pipeline turns daily signals into early-warning alerts. [Live demo](https://hacktheglobe.vercel.app)
 
