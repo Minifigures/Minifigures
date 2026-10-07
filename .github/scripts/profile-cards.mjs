@@ -190,6 +190,7 @@ async function allTimeStats() {
           contributionsCollection(from: $from, to: $to) {
             totalCommitContributions totalPullRequestContributions
             totalIssueContributions totalPullRequestReviewContributions
+            restrictedContributionsCount
             contributionCalendar { totalContributions }
           }
         }
@@ -216,11 +217,17 @@ async function allTimeStats() {
   }
 
   // All-time commit count, same source as github-readme-stats' include_all_commits.
-  const allCommits = (await rest(`/search/commits?q=author:${USER}`)).total_count;
+  const allCommits = (await rest(`/search/commits?q=author:${USER}+is:public`)).total_count;
+
+  // Private contributions GitHub publishes as a count (mostly commits to private repos).
+  // Added to commits like github-readme-stats' former count_private option.
+  const privateContributions = sum('restrictedContributionsCount');
 
   return {
     years,
-    allCommits,
+    publicCommits: allCommits,
+    privateContributions,
+    commits: allCommits + privateContributions,
     prs: u.pullRequests.totalCount,
     issues: u.openIssues.totalCount + u.closedIssues.totalCount,
     reviews: sum('totalPullRequestReviewContributions'),
@@ -255,12 +262,12 @@ const LEVELS = ['S', 'A+', 'A', 'A-', 'B+', 'B', 'B-', 'C+', 'C'];
 const levelFor = (pct) => LEVELS[THRESHOLDS.findIndex((t) => pct <= t)];
 // Same medians and weights as github-readme-stats with include_all_commits=true.
 const RANK_CATEGORIES = [
-  { key: 'allCommits', label: 'Commits (all-time)', median: 1000, weight: 2, cdf: expCdf, activity: true },
-  { key: 'prs', label: 'Pull requests', median: 50, weight: 3, cdf: expCdf, activity: true },
-  { key: 'issues', label: 'Issues', median: 25, weight: 1, cdf: expCdf, activity: true },
-  { key: 'reviews', label: 'Code reviews', median: 2, weight: 1, cdf: expCdf, activity: true },
-  { key: 'stars', label: 'Stars earned', median: 50, weight: 4, cdf: logNormalCdf, activity: false },
-  { key: 'followers', label: 'Followers', median: 10, weight: 1, cdf: logNormalCdf, activity: false },
+  { key: 'commits', short: 'Commit', label: 'Commits (incl. private)', median: 1000, weight: 2, cdf: expCdf, activity: true },
+  { key: 'prs', short: 'Pull request', label: 'Pull requests', median: 50, weight: 3, cdf: expCdf, activity: true },
+  { key: 'issues', short: 'Issue', label: 'Issues', median: 25, weight: 1, cdf: expCdf, activity: true },
+  { key: 'reviews', short: 'Code review', label: 'Code reviews', median: 2, weight: 1, cdf: expCdf, activity: true },
+  { key: 'stars', short: 'Star', label: 'Stars earned', median: 50, weight: 4, cdf: logNormalCdf, activity: false },
+  { key: 'followers', short: 'Follower', label: 'Followers', median: 10, weight: 1, cdf: logNormalCdf, activity: false },
 ];
 
 function computeRank(stats) {
@@ -278,13 +285,18 @@ function computeRank(stats) {
 const topLabel = (p) => `Top ${p < 10 ? p.toFixed(1) : Math.round(p)}%`;
 
 function rankCard(stats, rank) {
-  const R = 46, cx = 100, cy = 112, circ = 2 * Math.PI * R;
-  const filled = circ * (1 - rank.activity / 100);
-  const best = [...rank.cats].sort((a, b) => a.top - b.top).slice(0, 3);
-  const rows = [
-    ...best.map((c) => ({ label: c.label, value: fmt(c.value), pill: `${c.level} · ${topLabel(c.top)}` })),
+  const R = 44, cx = 100, cy = 104, circ = 2 * Math.PI * R;
+  // Headline: his highest-ranked category under the formula (computed, labelled on the card).
+  const sorted = [...rank.cats].sort((a, b) => a.top - b.top);
+  const head = sorted[0];
+  const filled = circ * (1 - head.top / 100);
+  const rows = sorted.filter((c) => c.top <= 25).slice(0, 3)
+    .map((c) => ({ label: c.label, value: fmt(c.value), pill: `${c.level} · ${topLabel(c.top)}` }));
+  for (const extra of [
     { label: 'Total contributions', value: fmt(stats.contributions), pill: '' },
-  ];
+    { label: 'Private contributions', value: fmt(stats.privateContributions), pill: '' },
+    { label: 'Pull requests', value: fmt(stats.prs), pill: '' },
+  ]) if (rows.length < 4 && !rows.some((r) => r.label === extra.label)) rows.push(extra);
   const rowSvg = rows.map((r, i) => {
     const y = 66 + i * 30;
     const pill = r.pill
@@ -296,7 +308,7 @@ function rankCard(stats, rank) {
     ${pill}`;
   }).join('\n    ');
 
-  return `<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-label="${esc(`GitHub activity rank ${rank.activityLevel}, ${topLabel(rank.activity)}`)}">
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-label="${esc(`GitHub ${head.short.toLowerCase()} rank ${head.level}, ${topLabel(head.top)}`)}">
   <defs>
     <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="${ACCENT}"/>
@@ -309,10 +321,11 @@ function rankCard(stats, rank) {
     <circle cx="${cx}" cy="${cy}" r="${R}" fill="none" stroke="${ACCENT}" stroke-opacity="0.18" stroke-width="7"/>
     <circle cx="${cx}" cy="${cy}" r="${R}" fill="none" stroke="url(#ring)" stroke-width="7" stroke-linecap="round"
       stroke-dasharray="${filled.toFixed(2)} ${circ.toFixed(2)}" transform="rotate(-90 ${cx} ${cy})"/>
-    <text x="${cx}" y="${cy + 6}" fill="${TEXT}" font-size="34" font-weight="700" text-anchor="middle">${esc(rank.activityLevel)}</text>
-    <text x="${cx}" y="${cy + 24}" fill="${MUTED}" font-size="11" text-anchor="middle">${esc(topLabel(rank.activity))}</text>
+    <text x="${cx}" y="${cy + 6}" fill="${TEXT}" font-size="34" font-weight="700" text-anchor="middle">${esc(head.level)}</text>
+    <text x="${cx}" y="${cy + 24}" fill="${MUTED}" font-size="11" text-anchor="middle">${esc(topLabel(head.top))}</text>
+    <text x="${cx}" y="${cy + R + 22}" fill="${TEXT}" font-size="12" font-weight="700" text-anchor="middle">${esc(head.short)} rank</text>
     ${rowSvg}
-    <text x="25" y="183" fill="${MUTED}" font-size="10">Activity rank · github-readme-stats formula on all-time commits, PRs, issues, reviews</text>
+    <text x="25" y="185" fill="${MUTED}" font-size="10">github-readme-stats rank formula · all-time · private = GitHub's private contribution count</text>
   </g>
 </svg>
 `;
@@ -403,6 +416,7 @@ console.log(JSON.stringify({
     activity: { level: rank.activityLevel, topPercent: +rank.activity.toFixed(2) },
     overall: { level: rank.overallLevel, topPercent: +rank.overall.toFixed(2) },
     categories: rank.cats.map((c) => ({ [c.key]: c.value, level: c.level, topPercent: +c.top.toFixed(2) })),
+    publicCommits: stats.publicCommits, privateContributions: stats.privateContributions,
   },
   contributions: stats.contributions,
   overview: { chosen: overviewWindow.label, lastYear: stats.overview.lastYear, allTime: stats.overview.allTime,
