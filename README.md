@@ -175,7 +175,7 @@ Drop a hotel or homestay onto a real Toronto parcel, stress-test it against five
 <tr>
 <td width="50%" valign="top">
 
-### [LOCATR](https://github.com/Lushenwar/LOCATR)
+### [LOCATR](https://github.com/Minifigures/LOCATR)
 **Agentic Spatial Intelligence Platform**
 
 *DeerHacks V 2026 Winner* | Team of 4
