@@ -285,7 +285,7 @@ function computeRank(stats) {
 const topLabel = (p) => `Top ${p < 10 ? p.toFixed(1) : Math.round(p)}%`;
 
 function rankCard(stats, rank) {
-  const R = 44, cx = 100, cy = 104, circ = 2 * Math.PI * R;
+  const R = 42, cx = 100, cy = 98, circ = 2 * Math.PI * R;
   // Headline: his highest-ranked category under the formula (computed, labelled on the card).
   const sorted = [...rank.cats].sort((a, b) => a.top - b.top);
   const head = sorted[0];
@@ -323,7 +323,7 @@ function rankCard(stats, rank) {
       stroke-dasharray="${filled.toFixed(2)} ${circ.toFixed(2)}" transform="rotate(-90 ${cx} ${cy})"/>
     <text x="${cx}" y="${cy + 6}" fill="${TEXT}" font-size="34" font-weight="700" text-anchor="middle">${esc(head.level)}</text>
     <text x="${cx}" y="${cy + 24}" fill="${MUTED}" font-size="11" text-anchor="middle">${esc(topLabel(head.top))}</text>
-    <text x="${cx}" y="${cy + R + 22}" fill="${TEXT}" font-size="12" font-weight="700" text-anchor="middle">${esc(head.short)} rank</text>
+    <text x="${cx}" y="${cy + R + 24}" fill="${TEXT}" font-size="13" font-weight="700" text-anchor="middle">${esc(head.short)} rank</text>
     ${rowSvg}
     <text x="25" y="185" fill="${MUTED}" font-size="10">github-readme-stats rank formula · all-time · private = GitHub's private contribution count</text>
   </g>
