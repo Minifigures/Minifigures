@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-label="Activity overview: &lt;1% Code review, 2% Issues, 4% Pull requests, 94% Commits">
+  <defs>
+    <linearGradient id="shape" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#58A6FF" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#A371F7" stop-opacity="0.6"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="494" height="194" rx="4.5" fill="#0D1117"/>
+  <g font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">
+    <text x="25" y="34" fill="#58A6FF" font-size="18" font-weight="700">Activity Overview</text>
+    <text x="470" y="34" fill="#9E9E9E" font-size="11" text-anchor="end">Last 12 months</text>
+    <line x1="100" y1="110" x2="200" y2="110" stroke="#9E9E9E" stroke-opacity="0.35"/>
+    <line x1="150" y1="60" x2="150" y2="160" stroke="#9E9E9E" stroke-opacity="0.35"/>
+    <polygon points="150.00,88.76 175.04,110.00 150.00,140.19 100.00,110.00" fill="url(#shape)" stroke="#58A6FF" stroke-width="1.5" stroke-linejoin="round"/>
+    <circle cx="150.00" cy="88.76" r="3" fill="#0D1117" stroke="#58A6FF" stroke-width="1.5"/><circle cx="175.04" cy="110.00" r="3" fill="#0D1117" stroke="#58A6FF" stroke-width="1.5"/><circle cx="150.00" cy="140.19" r="3" fill="#0D1117" stroke="#58A6FF" stroke-width="1.5"/><circle cx="100.00" cy="110.00" r="3" fill="#0D1117" stroke="#58A6FF" stroke-width="1.5"/>
+    <text x="150" y="51" fill="#FEFEFE" font-size="12" text-anchor="middle"><tspan font-weight="700">&lt;1%</tspan> <tspan fill="#9E9E9E">Code review</tspan></text>
+    <text x="208" y="114" fill="#FEFEFE" font-size="12" text-anchor="start"><tspan font-weight="700">2%</tspan> <tspan fill="#9E9E9E">Issues</tspan></text>
+    <text x="150" y="179" fill="#FEFEFE" font-size="12" text-anchor="middle"><tspan font-weight="700">4%</tspan> <tspan fill="#9E9E9E">Pull requests</tspan></text>
+    <text x="92" y="114" fill="#FEFEFE" font-size="12" text-anchor="end"><tspan font-weight="700">94%</tspan> <tspan fill="#9E9E9E">Commits</tspan></text>
+    <text x="330" y="72" fill="#9E9E9E" font-size="12">Commits</text>
+    <text x="470" y="72" fill="#FEFEFE" font-size="14" font-weight="700" text-anchor="end">587</text>
+    <text x="330" y="96" fill="#9E9E9E" font-size="12">Pull requests</text>
+    <text x="470" y="96" fill="#FEFEFE" font-size="14" font-weight="700" text-anchor="end">24</text>
+    <text x="330" y="120" fill="#9E9E9E" font-size="12">Issues</text>
+    <text x="470" y="120" fill="#FEFEFE" font-size="14" font-weight="700" text-anchor="end">10</text>
+    <text x="330" y="144" fill="#9E9E9E" font-size="12">Code review</text>
+    <text x="470" y="144" fill="#FEFEFE" font-size="14" font-weight="700" text-anchor="end">5</text>
+    <text x="330" y="176" fill="#9E9E9E" font-size="10">Shape log-scaled; % of these four</text>
+  </g>
+</svg>
