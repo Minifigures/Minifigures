@@ -200,31 +200,23 @@ async function allTimeStats() {
   }
   const sum = (k) => perYear.reduce((s, c) => s + c[k], 0);
 
-  // Stars on owned public repositories (the Actions token cannot read private ones).
-  let stars = 0, after = null;
-  do {
-    const d = await gql(
-      `query($login: String!, $after: String) {
-        user(login: $login) {
-          repositories(first: 100, after: $after, ownerAffiliations: OWNER, privacy: PUBLIC) {
-            nodes { stargazers { totalCount } }
-            pageInfo { hasNextPage endCursor }
-          }
-        }
-      }`,
-      { login: USER, after },
-    );
-    const r = d.user.repositories;
-    stars += r.nodes.reduce((s, n) => s + n.stargazers.totalCount, 0);
-    after = r.pageInfo.hasNextPage ? r.pageInfo.endCursor : null;
-  } while (after);
+  // Stars on owned public repositories, via REST (the Actions token cannot read GraphQL stargazers).
+  const rest = async (path) => {
+    const r = await fetch(`https://api.github.com${path}`, {
+      headers: { Authorization: `bearer ${TOKEN}`, Accept: 'application/vnd.github+json', 'User-Agent': `${USER}-profile-cards` },
+    });
+    if (!r.ok) throw new Error(`${path} failed: ${r.status}`);
+    return r.json();
+  };
+  let stars = 0;
+  for (let page = 1; ; page += 1) {
+    const repos = await rest(`/users/${USER}/repos?type=owner&per_page=100&page=${page}`);
+    stars += repos.reduce((s, r) => s + r.stargazers_count, 0);
+    if (repos.length < 100) break;
+  }
 
   // All-time commit count, same source as github-readme-stats' include_all_commits.
-  const res = await fetch(`https://api.github.com/search/commits?q=author:${USER}`, {
-    headers: { Authorization: `bearer ${TOKEN}`, Accept: 'application/vnd.github+json', 'User-Agent': `${USER}-profile-cards` },
-  });
-  if (!res.ok) throw new Error(`commit search failed: ${res.status}`);
-  const allCommits = (await res.json()).total_count;
+  const allCommits = (await rest(`/search/commits?q=author:${USER}`)).total_count;
 
   return {
     years,
