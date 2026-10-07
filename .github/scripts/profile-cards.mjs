@@ -200,13 +200,13 @@ async function allTimeStats() {
   }
   const sum = (k) => perYear.reduce((s, c) => s + c[k], 0);
 
-  // Stars on owned repositories, as github-readme-stats counts them.
+  // Stars on owned public repositories (the Actions token cannot read private ones).
   let stars = 0, after = null;
   do {
     const d = await gql(
       `query($login: String!, $after: String) {
         user(login: $login) {
-          repositories(first: 100, after: $after, ownerAffiliations: OWNER) {
+          repositories(first: 100, after: $after, ownerAffiliations: OWNER, privacy: PUBLIC) {
             nodes { stargazers { totalCount } }
             pageInfo { hasNextPage endCursor }
           }
