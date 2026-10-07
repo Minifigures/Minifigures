@@ -262,7 +262,7 @@ const LEVELS = ['S', 'A+', 'A', 'A-', 'B+', 'B', 'B-', 'C+', 'C'];
 const levelFor = (pct) => LEVELS[THRESHOLDS.findIndex((t) => pct <= t)];
 // Same medians and weights as github-readme-stats with include_all_commits=true.
 const RANK_CATEGORIES = [
-  { key: 'commits', short: 'Commit', label: 'Commits (incl. private)', median: 1000, weight: 2, cdf: expCdf, activity: true },
+  { key: 'commits', short: 'Commit', label: 'Commits + private', median: 1000, weight: 2, cdf: expCdf, activity: true },
   { key: 'prs', short: 'Pull request', label: 'Pull requests', median: 50, weight: 3, cdf: expCdf, activity: true },
   { key: 'issues', short: 'Issue', label: 'Issues', median: 25, weight: 1, cdf: expCdf, activity: true },
   { key: 'reviews', short: 'Code review', label: 'Code reviews', median: 2, weight: 1, cdf: expCdf, activity: true },
@@ -317,7 +317,7 @@ function rankCard(stats, rank) {
   </defs>
   <rect x="0.5" y="0.5" width="494" height="194" rx="4.5" fill="${BG}"/>
   <g font-family="${FONT}">
-    <text x="25" y="34" fill="${ACCENT}" font-size="18" font-weight="700">GitHub Rank</text>
+    <text x="25" y="34" fill="${ACCENT}" font-size="18" font-weight="700">Strongest Rank</text>
     <circle cx="${cx}" cy="${cy}" r="${R}" fill="none" stroke="${ACCENT}" stroke-opacity="0.18" stroke-width="7"/>
     <circle cx="${cx}" cy="${cy}" r="${R}" fill="none" stroke="url(#ring)" stroke-width="7" stroke-linecap="round"
       stroke-dasharray="${filled.toFixed(2)} ${circ.toFixed(2)}" transform="rotate(-90 ${cx} ${cy})"/>
