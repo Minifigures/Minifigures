@@ -12,7 +12,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Minifigures&style=flat-square&color=58A6FF)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Minifigures.Minifigures&left_text=Profile%20Views&left_color=%23555555&right_color=%2358A6FF)
 
 </div>
 
