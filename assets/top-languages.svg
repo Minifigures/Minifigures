@@ -3,13 +3,13 @@
   <clipPath id="bar"><rect x="25" y="52" width="445" height="10" rx="5"/></clipPath>
   <g font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">
     <text x="25" y="34" fill="#58A6FF" font-size="18" font-weight="700">Most Used Languages</text>
-    <g clip-path="url(#bar)"><rect x="25.00" y="52" width="185.13" height="10" fill="#DA5B0B"/><rect x="210.13" y="52" width="160.45" height="10" fill="#f1e05a"/><rect x="370.58" y="52" width="39.71" height="10" fill="#3572A5"/><rect x="410.29" y="52" width="31.87" height="10" fill="#3178c6"/><rect x="442.16" y="52" width="15.95" height="10" fill="#e34c26"/><rect x="458.11" y="52" width="5.79" height="10" fill="#f34b7d"/><rect x="463.90" y="52" width="5.37" height="10" fill="#663399"/><rect x="469.27" y="52" width="0.73" height="10" fill="#89e051"/></g>
+    <g clip-path="url(#bar)"><rect x="25.00" y="52" width="184.01" height="10" fill="#DA5B0B"/><rect x="209.01" y="52" width="159.47" height="10" fill="#f1e05a"/><rect x="368.48" y="52" width="42.18" height="10" fill="#3572A5"/><rect x="410.65" y="52" width="31.67" height="10" fill="#3178c6"/><rect x="442.33" y="52" width="15.86" height="10" fill="#e34c26"/><rect x="458.18" y="52" width="5.75" height="10" fill="#f34b7d"/><rect x="463.94" y="52" width="5.34" height="10" fill="#663399"/><rect x="469.27" y="52" width="0.73" height="10" fill="#89e051"/></g>
     <circle cx="30" cy="88" r="5" fill="#DA5B0B"/>
-    <text x="41" y="92" fill="#FEFEFE" font-size="12">Jupyter Notebook <tspan fill="#9E9E9E">41.5%</tspan></text>
+    <text x="41" y="92" fill="#FEFEFE" font-size="12">Jupyter Notebook <tspan fill="#9E9E9E">41.3%</tspan></text>
     <circle cx="255" cy="88" r="5" fill="#f1e05a"/>
-    <text x="266" y="92" fill="#FEFEFE" font-size="12">JavaScript <tspan fill="#9E9E9E">36.0%</tspan></text>
+    <text x="266" y="92" fill="#FEFEFE" font-size="12">JavaScript <tspan fill="#9E9E9E">35.8%</tspan></text>
     <circle cx="30" cy="112" r="5" fill="#3572A5"/>
-    <text x="41" y="116" fill="#FEFEFE" font-size="12">Python <tspan fill="#9E9E9E">8.9%</tspan></text>
+    <text x="41" y="116" fill="#FEFEFE" font-size="12">Python <tspan fill="#9E9E9E">9.5%</tspan></text>
     <circle cx="255" cy="112" r="5" fill="#3178c6"/>
     <text x="266" y="116" fill="#FEFEFE" font-size="12">TypeScript <tspan fill="#9E9E9E">7.1%</tspan></text>
     <circle cx="30" cy="136" r="5" fill="#e34c26"/>

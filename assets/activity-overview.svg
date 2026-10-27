@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-label="Activity overview: &lt;1% Code review, &lt;1% Issues, 7% Pull requests, 92% Commits">
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-label="Activity overview: &lt;1% Code review, &lt;1% Issues, 8% Pull requests, 91% Commits">
   <defs>
     <linearGradient id="shape" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#58A6FF" stop-opacity="0.85"/>
@@ -11,16 +11,16 @@
     <text x="470" y="34" fill="#9E9E9E" font-size="11" text-anchor="end">Last 12 months</text>
     <line x1="100" y1="110" x2="200" y2="110" stroke="#9E9E9E" stroke-opacity="0.35"/>
     <line x1="150" y1="60" x2="150" y2="160" stroke="#9E9E9E" stroke-opacity="0.35"/>
-    <polygon points="150.00,89.61 173.91,110.00 150.00,145.12 100.00,110.00" fill="url(#shape)" stroke="#58A6FF" stroke-width="1.5" stroke-linejoin="round"/>
-    <circle cx="150.00" cy="89.61" r="3" fill="#0D1117" stroke="#58A6FF" stroke-width="1.5"/><circle cx="173.91" cy="110.00" r="3" fill="#0D1117" stroke="#58A6FF" stroke-width="1.5"/><circle cx="150.00" cy="145.12" r="3" fill="#0D1117" stroke="#58A6FF" stroke-width="1.5"/><circle cx="100.00" cy="110.00" r="3" fill="#0D1117" stroke="#58A6FF" stroke-width="1.5"/>
+    <polygon points="150.00,89.62 173.89,110.00 150.00,145.87 100.00,110.00" fill="url(#shape)" stroke="#58A6FF" stroke-width="1.5" stroke-linejoin="round"/>
+    <circle cx="150.00" cy="89.62" r="3" fill="#0D1117" stroke="#58A6FF" stroke-width="1.5"/><circle cx="173.89" cy="110.00" r="3" fill="#0D1117" stroke="#58A6FF" stroke-width="1.5"/><circle cx="150.00" cy="145.87" r="3" fill="#0D1117" stroke="#58A6FF" stroke-width="1.5"/><circle cx="100.00" cy="110.00" r="3" fill="#0D1117" stroke="#58A6FF" stroke-width="1.5"/>
     <text x="150" y="51" fill="#FEFEFE" font-size="12" text-anchor="middle"><tspan font-weight="700">&lt;1%</tspan> <tspan fill="#9E9E9E">Code review</tspan></text>
     <text x="208" y="114" fill="#FEFEFE" font-size="12" text-anchor="start"><tspan font-weight="700">&lt;1%</tspan> <tspan fill="#9E9E9E">Issues</tspan></text>
-    <text x="150" y="179" fill="#FEFEFE" font-size="12" text-anchor="middle"><tspan font-weight="700">7%</tspan> <tspan fill="#9E9E9E">Pull requests</tspan></text>
-    <text x="92" y="114" fill="#FEFEFE" font-size="12" text-anchor="end"><tspan font-weight="700">92%</tspan> <tspan fill="#9E9E9E">Commits</tspan></text>
+    <text x="150" y="179" fill="#FEFEFE" font-size="12" text-anchor="middle"><tspan font-weight="700">8%</tspan> <tspan fill="#9E9E9E">Pull requests</tspan></text>
+    <text x="92" y="114" fill="#FEFEFE" font-size="12" text-anchor="end"><tspan font-weight="700">91%</tspan> <tspan fill="#9E9E9E">Commits</tspan></text>
     <text x="330" y="72" fill="#9E9E9E" font-size="12">Commits</text>
-    <text x="470" y="72" fill="#FEFEFE" font-size="14" font-weight="700" text-anchor="end">988</text>
+    <text x="470" y="72" fill="#FEFEFE" font-size="14" font-weight="700" text-anchor="end">997</text>
     <text x="330" y="96" fill="#9E9E9E" font-size="12">Pull requests</text>
-    <text x="470" y="96" fill="#FEFEFE" font-size="14" font-weight="700" text-anchor="end">75</text>
+    <text x="470" y="96" fill="#FEFEFE" font-size="14" font-weight="700" text-anchor="end">86</text>
     <text x="330" y="120" fill="#9E9E9E" font-size="12">Issues</text>
     <text x="470" y="120" fill="#FEFEFE" font-size="14" font-weight="700" text-anchor="end">10</text>
     <text x="330" y="144" fill="#9E9E9E" font-size="12">Code review</text>
